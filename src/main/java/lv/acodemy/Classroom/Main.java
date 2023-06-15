@@ -1,4 +1,4 @@
-package lv.acodemy;
+package lv.acodemy.Classroom;
 
 public class Main {
     public static void main(String[] args) {
