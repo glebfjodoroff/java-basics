@@ -1,4 +1,4 @@
-package lv.acodemy.classroom;
+package lv.acodemy.Classroom;
 
 import java.util.Random;
 import java.util.Scanner;
